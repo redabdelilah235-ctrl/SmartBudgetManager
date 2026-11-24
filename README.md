@@ -19,3 +19,5 @@ Technologies Used
 - GitHub
 Project Objective
 The main objective of this project is to simplify budget management and help users organize their financial information
+  This is my first  git project
+  
